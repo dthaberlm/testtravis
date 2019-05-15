@@ -11,4 +11,4 @@ python:
   - "3.6-dev"  # 3.6 development branch
   
 script:
-    - test
+    - test.py
